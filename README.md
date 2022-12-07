@@ -1,7 +1,9 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQG6K4Qv7pzoDg/profile-displaybackgroundimage-shrink_350_1400/0/1652893900624?e=1675900800&v=beta&t=z69Vv447zdxztxdlOf1bjo9_4SBWxVR-bkdQybuQ2Hg" alt="landing" />
 
-# Hi 👋, I'm Mehdi
-<h3 align="center">A passionate frontend developer</h3>
+# Hi! I'm Mehdi,
+An enthusiastic and reliable self-taught Front-End Developer with 3+ years of experience in Project Management in fast-paced and challenging environments.
+I am passionate about new technologies, science, design, and puzzles. That's why I love coding and developing websites!
+I have been learning React.JS for a year, by using various online resources, creating apps for me and my friends, and contributing to open source.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mehdibouaziz.vercel.app/](https://portfolio-mehdibouaziz.vercel.app/)
 
