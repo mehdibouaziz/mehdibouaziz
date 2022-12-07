@@ -7,11 +7,11 @@ I am passionate about new technologies, science, design, and puzzles. That's why
 I have been learning React.JS for a year, by using various online resources, creating apps for me and my friends, and contributing to open source.
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/mehdi-bouaziz/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://mehdibouaziz.github.io/resume/" target="blank">
     <img src="https://img.shields.io/badge/Download_My_CV-40a840?style=for-the-badge&logo=files&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mehdi-bouaziz/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.freecodecamp.org/MehdiBouaziz" target="blank">
     <img src="https://img.shields.io/badge/freeCodeCamp-black?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Twitter Badge"/>
