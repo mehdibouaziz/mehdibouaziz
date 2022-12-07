@@ -2,7 +2,7 @@
           
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQG6K4Qv7pzoDg/profile-displaybackgroundimage-shrink_350_1400/0/1652893900624?e=1675900800&v=beta&t=z69Vv447zdxztxdlOf1bjo9_4SBWxVR-bkdQybuQ2Hg" alt="landing" />
 
-# Hi! I'm Mehdi,
+# 👋 Hi! I'm Mehdi,
 
 An enthusiastic and reliable self-taught Front-End Developer with 3+ years of experience in Project Management in fast-paced and challenging environments.
 I am passionate about new technologies, science, design, and puzzles. That's why I love coding and developing websites!
@@ -20,10 +20,6 @@ I have been learning <i class="devicon-react-original colored"></i>React.JS for 
   </a>
 </div>
 
-Read more on my CV:  [https://mehdibouaziz.github.io/resume/](https://mehdibouaziz.github.io/resume/)
-
-Connect with me: <a href="https://linkedin.com/in/mehdi-bouaziz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mehdi-bouaziz" height="30" width="40" /></a>
-
 #### Check out my portfolio:
 [<img src="https://media-exp1.licdn.com/dms/image/C4D2DAQFKURFlxCLtgg/profile-treasury-image-shrink_800_800/0/1670265098559?e=1671030000&v=beta&t=S5nMRnynAaiEPrDk2e93flji0egpMEaIYqu0O6W2phM" alt="landing" width="200" title="My portfolio" aria-label="My portfolio" />](https://portfolio-mehdibouaziz.vercel.app/)
 
@@ -32,10 +28,6 @@ Connect with me: <a href="https://linkedin.com/in/mehdi-bouaziz" target="blank">
 [<img src="https://portfolio-mehdibouaziz.vercel.app/static/media/recipeapp.db9189d6b9bc02c77388.png" alt="landing" width="200" height="120" title="Recipe App" aria-label="Recipe App" />](https://portfolio-mehdibouaziz.vercel.app/)
 [<img src="https://portfolio-mehdibouaziz.vercel.app/static/media/wordle.5ae3dfdd5dccd63b8a5d.png" alt="landing" width="200" height="120" title="Wordle Clone" aria-label="Wordle Clone" />](https://mehdibouaziz.github.io/wordle-clone/)
 [<img src="https://portfolio-mehdibouaziz.vercel.app/static/media/houseMarketplace.68f6143dc921015b8430.png" alt="landing" width="200" height="120" title="House Marketplace" aria-label="House Marketplace" />](https://house-marketplace-eight-gamma.vercel.app/)
-
-
-#### Connect with me: <a href="https://linkedin.com/in/mehdi-bouaziz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mehdi-bouaziz" height="30" width="40" /></a>
-
 
 ### Languages and Tools:
 <p align="left">
