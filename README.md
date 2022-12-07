@@ -1,6 +1,6 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4E16AQG6K4Qv7pzoDg/profile-displaybackgroundimage-shrink_350_1400/0/1652893900624?e=1675900800&v=beta&t=z69Vv447zdxztxdlOf1bjo9_4SBWxVR-bkdQybuQ2Hg" alt="landing" />
 
-<h1 align="center">Hi 👋, I'm Mehdi</h1>
+# Hi 👋, I'm Mehdi
 <h3 align="center">A passionate frontend developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mehdibouaziz.vercel.app/](https://portfolio-mehdibouaziz.vercel.app/)
