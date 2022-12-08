@@ -23,7 +23,7 @@ I have been learning React.JS for a year, by using various online resources, cre
 
 #### Or some of my projects:
 
-[<img src="https://portfolio-mehdibouaziz.vercel.app/static/media/recipeapp.db9189d6b9bc02c77388.png" alt="landing" width="200" height="120" title="Recipe App" aria-label="Recipe App" />](https://portfolio-mehdibouaziz.vercel.app/)
+[<img src="https://portfolio-mehdibouaziz.vercel.app/static/media/recipeapp.db9189d6b9bc02c77388.png" alt="landing" width="200" height="120" title="Recipe App" aria-label="Recipe App" />](https://am-recipes.vercel.app/)
 [<img src="https://portfolio-mehdibouaziz.vercel.app/static/media/wordle.5ae3dfdd5dccd63b8a5d.png" alt="landing" width="200" height="120" title="Wordle Clone" aria-label="Wordle Clone" />](https://mehdibouaziz.github.io/wordle-clone/)
 [<img src="https://portfolio-mehdibouaziz.vercel.app/static/media/houseMarketplace.68f6143dc921015b8430.png" alt="landing" width="200" height="120" title="House Marketplace" aria-label="House Marketplace" />](https://house-marketplace-eight-gamma.vercel.app/)
 
