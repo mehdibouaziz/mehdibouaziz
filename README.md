@@ -19,7 +19,7 @@ I have been learning React.JS for a year, by using various online resources, cre
 </div>
 
 #### Check out my portfolio:
-[<img src="https://media-exp1.licdn.com/dms/image/C4D2DAQFKURFlxCLtgg/profile-treasury-image-shrink_800_800/0/1670265098559?e=1671030000&v=beta&t=S5nMRnynAaiEPrDk2e93flji0egpMEaIYqu0O6W2phM" alt="landing" width="200" title="My portfolio" aria-label="My portfolio" />](https://portfolio-mehdibouaziz.vercel.app/)
+[<img src="https://github.com/mehdibouaziz/portfolio/blob/main/src/img/portfolio/portfolio.jpeg?raw=true" alt="landing" width="200" title="My portfolio" aria-label="My portfolio" />](https://portfolio-mehdibouaziz.vercel.app/)
 
 #### Or some of my projects:
 
