@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4E16AQG6K4Qv7pzoDg/profile-displaybackgroundimage-shrink_350_1400/0/1652893900624?e=1675900800&v=beta&t=z69Vv447zdxztxdlOf1bjo9_4SBWxVR-bkdQybuQ2Hg" alt="landing" />
+<img src="https://github.com/mehdibouaziz/mehdibouaziz/blob/main/1652893900624.jpg?raw=true" alt="landing" />
 
 # 👋 Hi! I'm Mehdi,
 
