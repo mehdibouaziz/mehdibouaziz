@@ -2,8 +2,9 @@
 
 # 👋 Hi! I'm Mehdi,
 
-I'm a Fullstack Software Engineer with 3 years of experience in React, Laravel and Next. Leveraging my Project Management background to support my team.
-I love investigating and solving problems, collaborating on software solutions, and continuously learn together to deliver the best possible experience to users.
+I'm a Fullstack Software Engineer with 3 years of experience in React, Laravel, and Next. Using my Project Management background to support my team.
+I love investigating and solving problems, collaborating on software solutions, and continuously learning together to deliver the best possible experience to users.
+I can leverage AI tools like Junie to optimize my workflow and focus on high-value work.
 
 <div id="badges">
   <a href="https://mehdibouaziz.github.io/resume/" target="blank">
